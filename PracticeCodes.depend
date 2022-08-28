@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1658864284 source:c:\c  prog practice\c++ codes\practicecodes\demo.1.cpp
+	<bits/stdc++.h>
+
+1660669169 source:c:\c  prog practice\c++ codes\practicecodes\demo2.cpp
+	<bits/stdc++.h>
+
+1661380603 source:c:\c  prog practice\c++ codes\practicecodes\cout.cpp
+	<iostream>
+
